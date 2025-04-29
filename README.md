@@ -1,53 +1,71 @@
-# Tulsi Encrypted Messenger
+# FREEDOMWARE PROJECTS
 
-> **Freedom First. Surveillance Last. Humanity Rebuilt.**  
-> Powered by the TAG9010 License.
+> Built for freedom. Powered by truth. Licensed for everyone.
 
----
+This collection of tools is created to fight back against systemic control, mass surveillance, and technological oppression.
 
-## Overview
-
-Tulsi is a portable, encrypted, peer-to-peer messenger built for maximum privacy and freedom.
-
-- 🛡️ Full End-to-End Encryption (RSA-4096 + AES-256)
-- 📁 Secure File Transfer
-- 🕑 Auto-deletion of messages after 5 minutes
-- 🔎 Live \"View Source Code\" transparency feature
-- 🎯 Tulsi Blind Mode — verify real code authenticity through blind editing
-- 🚀 Cross-platform (Linux, BSD, Android-ready with Kivy)
-
-Tulsi has **no central servers**, **no phone number registration**, **no email verification**,  
-and is designed for resistance against surveillance systems.
+These projects are built using A.I assistance combined with human vision — to accelerate humanity's move toward privacy, autonomy, and dignity.
 
 ---
 
-## License
+## 🔥 The Projects
 
-This project is licensed under the **TAG9010 LICENSE**.
+- **TULSIFOXZERO**  
+  A browser focused on full anonymity, no microphones or cameras, MAC address randomization, and built-in ad-blocking.
 
-See [LICENSE.txt](LICENSE.txt) for full legal text.
+- **TULSITHECONVERTER**  
+  A tool to paste code and rebuild it with a new GUI, encryption, and icon — creating a stronger, more secure version.
 
----
+- **CRYPTOTULSI**  
+  A cryptocurrency designed for anonymous transactions without wallets, merging VPN-like networking directly into the network itself.
 
-## How to Run
+- **TULSITHEDemocracyHunter**  
+  A scanner to detect telemetry, spyware, and hidden backdoors in any code you paste — fighting hidden surveillance.
 
-1. Install dependencies:
-    ```bash
-    pip install kivy cryptography
-    ```
-2. Run the app:
-    ```bash
-    python3 tulsi_app.py
-    ```
-3. (Optional) Use the included `start_tulsi.sh` for easy launch on Linux/BSD.
+- **TULSICHAT**  
+  A privacy-first communications platform with a transparent \"View Source Code\" feature and \"Tulsi Blind Mode\" live code authentication.
 
 ---
 
-## Philosophy
+## 🛠️ Special Features
 
-Tulsi exists to empower humanity, protect children, defend privacy,  
-and rebuild society free from corruption and oppression.
+- **View Source Code Button**  
+  See the code live and verify that it matches what is really running inside.
+
+- **Tulsi Blind Mode**  
+  Open a second window where you can safely corrupt symbols to generate errors. Compare errors with an external IDE like VSCodium. If errors match, the source code is authentic.
 
 ---
 
-# ✊ Join the movement. Build the future. Freedom belongs to the builders.
+## 🚀 Project Status
+
+All projects are in early development.  
+They need improvements, contributions, and testing from people who believe in freedom.
+
+Anyone is free to use, modify, and redistribute them under the MIT License.
+
+---
+
+## ⚡ License
+
+These projects are released under the **MIT License**.  
+You have full rights to:
+- Use
+- Modify
+- Distribute
+- Commercialize
+
+Freedom first — no restrictions.
+
+---
+
+## ✊ About the Creator
+
+Built by **TAG9010**, founder of the FREEDOMWARE initiative.
+
+Because freedom belongs to the builders — not the bureaucrats.
+
+---
+
+> “If we complete these systems, no tyrant can ever lock humanity down again.”  
+> — TAG9010
